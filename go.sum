@@ -1,0 +1,4 @@
+github.com/AvraamMavridis/randomcolor v0.0.0-20180822172341-208aff70bf2c h1:XLynE8YGJdvPN65iI+G+Ys5ZUVS6YxWk8WPe/FmBReg=
+github.com/AvraamMavridis/randomcolor v0.0.0-20180822172341-208aff70bf2c/go.mod h1:vX+Cl5GOtK2DkzgsggLoeNUbxAcUWBaybCKzVRYsRMo=
+github.com/aaronpowell/webpack-golang-wasm-async-loader v0.1.0 h1:gYymEdYesT3li4DCAuWpDjn41JpnQT+VRqjf80DLOd8=
+github.com/aaronpowell/webpack-golang-wasm-async-loader v0.1.0/go.mod h1:VU4cr4THfNFFVh8sA959Girn/S/BLCTHhNXV7okbWv0=
