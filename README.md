@@ -1,7 +1,7 @@
 # Go color react
 
 ```sh
-Go 1.13+
+Go 1.13+ + go modules
 nodejs
 yarn
 ```
